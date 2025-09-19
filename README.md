@@ -1,12 +1,6 @@
 ### Hi there, I'm Sabbir! 👋  
 
-![Profile Banner](https://source.unsplash.com/1600x500/?technology,coding)
 
-I am a passionate **Data Science Student** with a strong foundation in **Python, Java, C++, C, HTML, CSS** and a keen interest in **Machine Learning and AI**. I love solving problems, building projects, and exploring new technologies. 
-
----  
-
-### 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
