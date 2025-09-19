@@ -21,5 +21,4 @@
 
 ---  
 
-⭐ **Fun Fact:** _Machine Learning is just statistics on steroids!_ 😆  
-🚀 _Let's connect and build something amazing!_
+<script src="https://gist.github.com/Qix-/73872753df4b9d6d72c3c1d68e8108fb.js"></script>
