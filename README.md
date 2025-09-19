@@ -19,6 +19,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdsabbirhossan/)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 
----  
 
-<script src="https://gist.github.com/Qix-/73872753df4b9d6d72c3c1d68e8108fb.js"></script>
